@@ -755,10 +755,3 @@ inproceedings{uellenbeck2013quantifying,
   pages={1 - 8},
   year={2013},
 }
-@inproceedings{Xu2016VirtualU,
-  title={Virtual U: Defeating face liveness detection by building virtual models from your public photos},
-  author={Xu, Y. and Price, T. and Frahm, J M. and Monrose, F.},
-  booktitle={25th USENIX Security Symposium (USENIX Security 16). USENIX Association},
-  pages={497--512},
-  year={2016},
-}

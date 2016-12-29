@@ -19,8 +19,8 @@
 
     This paper makes the following specific contributions:
 
-    \begin{itemize}
+    \begin{enumerate}
         \item \emph{A New System:} We propose and implement a security and usable biometric-based authentication system based on facial expression on the smartphone without any extra hardware. Furthermore, this system does not require any visual stimuli so that it can accomplish authentication within 2 or 4 seconds.
         \item \emph{New Findings: } We use the deformation information of facial features to authenticate user's identity and discovere that the facial deformation data can be regarded as a biometrics to uniquely identify one's identity.
         \item \emph{Exploring New Technologies:} We develop a new authentication method by combining the facial deformation data with the Gabor features to dual coordination for improving the recognition accuracy. Our comprehensive evaluation shows that we can recognize one's identity with a accuracy of above 90\%.
-    \end{itemize}
+    \end{enumerate}

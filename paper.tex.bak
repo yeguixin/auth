@@ -22,8 +22,7 @@
 \usepackage{diagbox}
 \usepackage{enumerate}
 \usepackage{setspace}
-\let\labelindent\relax
-\usepackage{enumitem}
+%\usepackage{enumitem}
 \usepackage{indentfirst}
 \usepackage{booktabs}
 \usepackage{tikz}

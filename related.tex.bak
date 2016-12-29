@@ -1,0 +1,21 @@
+\section{Related Work}
+    Our work lies at the intersection between human face recognition and biometric-based authentication methods. We bring together techniques developed in the domain of face recognition and identity authentication to develop a new authentication scheme.
+
+    \noindent \textbf{Physiological biometrics}
+
+    \noindent \textbf{Behavioral biometrics}
+
+    \noindent \textbf{Face recognition} The approaches reported regarding facial expression recognition can be distinguished in two main directions, the feature-based ones and the template-based ones, according to the method they use for facial information extraction. The feature-based methods use texture or geometrical information as features for expression information extraction. The template-based methods use 3-D or 2-D head and facial models as templates for expression information extraction.
+    \begin{itemize}[1)]
+        \item \textbf{Feature-Based Approaches:} Facial feature detection and tracking is based on active InfraRed illumination in~\cite{Zhang2005Active}, in order to provide visual information under variable lighting and head motion. The classification is performed using a Dynamic Bayesian Network (DBN).
+            A method for static and dynamic segmentation and classification of facial expression is processed in~\cite{Cohen2003Facial}. For the static case, a DBN id used, organized in a tree structure. For the dynamic approach, multi level Hidden Markov Models (HMMs) classifiers are employed.
+            The system proposed in~\cite{Bartlett2003Real} automatically detects frontal faces in the video stream and classifies them in seven classes in real time: neutral, anger, disgust, fear, joy, sadness, and surprise. An expression recognizer receives image regions produced by a face detector and then a Gabor representation of the facial image region is formed to be later processed by a bank of SVMs classifiers.
+            Gabor filters are also used in~\cite{Lyons1998Coding} for facial expression recognition. Facial expression images are coded using a multiorientation, multiresolution set of Gabor filters which are topographically ordered and aligned approximately with the face.
+            A Neural Network (NN) is employed to performe facial expression recognition in~\cite{Zhang1998Comparison}. The features used can be either the geometric positions of a set of fiducial points on a face or a set of multiscale and multiorientation Gabor eavelet coefficients extracted from the facial image at the fiducial points.
+            A convolutional NN was used in~\cite{Fasel2002Multiscale}. The system developed is robust to face location changes and scale variations. Feature extraction and facial expression classification were performed using neuron groups, having as input a feature map and properly adjusting the weights of the neurons for correct classification.
+
+        \item \textbf{Model Template-Based Approaches:} A 3-D facial model used for facial expression recognition is also proposed in~\cite{Braathen2002An}. First, the head pose is estimated in a facial video sequences. Subsequently, face images are wraped onto a face model with canonical face geometry, then they are rotated to frontal ones, and are projected back onto the image plane. Pixels brightness is linearly rescaled and resulting images are convolved with a bank of Gabor kernels. The Gabor representations are then channelled to a bank of SVMs to perform facial expression recognition.
+    \end{itemize}
+
+
+    \noindent \textbf{Expression recognition}

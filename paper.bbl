@@ -31,14 +31,6 @@
   \url{https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/},
   2016.
 
-\bibitem{2002NATMonitor}
-``2002 nat monitor password survey.'' \url{http://www.outlaw.com/page-3193},
-  Last visit: 04.09.2006.
-
-\bibitem{hugeSurge2006}
-``Huge surge in mobile phone thefts.''
-  \url{http://news.bbc.co.uk/1/hi/uk/1748258.stm}, Last visit: 04.09.2006.
-
 \bibitem{Acharya2012Impact}
 R.~Acharya and M.~Dolan, ``Impact of antisocial and psychopathic traits on
   emotional facial expression recognition in alcohol abusers,''
@@ -56,11 +48,6 @@ G.~Bailador, C.~Sanchez-Avila, J.~Guerra-Casanova, and D.~S.~S. Alberto,
   biometrics,'' \emph{Pattern Recognition}, vol.~44, no. 10-11, pp. 2468--2478,
   2011.
 
-\bibitem{Bartlett2003Real}
-M.~S. Bartlett, G.~Littlewort, I.~Fasel, and J.~R. Movellan, ``Real time face
-  detection and facial expression recognition: Development and applications to
-  human computer interaction.'' vol.~5, pp. 53--53, 2003.
-
 \bibitem{Bekele2013Understanding}
 E.~Bekele, Z.~Zheng, A.~Swanson, and J.~Crittendon, ``Understanding how
   adolescents with autism respond to facial expressions in virtual reality
@@ -73,12 +60,6 @@ A.~Boehm, D.~Chen, M.~Frank, L.~Huang, C.~Kuo, T.~Lolic, I.~Martinovic, and
   \emph{International Conference on Privacy and Security in Mobile Systems},
   2013, pp. 1 -- 8.
 
-\bibitem{Braathen2002An}
-B.~Braathen, M.~S. Bartlett, G.~Littlewort, and E.~Smith, ``An approach to
-  automatic recognition of spontaneous facial actions,'' in \emph{IEEE
-  International Conference on Automatic Face and Gesture Recognition, 2002.
-  Proceedings}, 2002, pp. 360--365.
-
 \bibitem{Brunelli1995Person}
 R.~Brunelli and D.~Falavigna, ``Person identification using multiple cues,''
   \emph{Pattern Analysis \& Machine Intelligence IEEE Transactions on},
@@ -88,17 +69,6 @@ R.~Brunelli and D.~Falavigna, ``Person identification using multiple cues,''
 X.~Chen, J.~Tian, Q.~Su, X.~Yang, and F.~Y. Wang, \emph{A Secured Mobile Phone
   Based on Embedded Fingerprint Recognition Systems}.\hskip 1em plus 0.5em
   minus 0.4em\relax Springer Berlin Heidelberg, 2005.
-
-\bibitem{Cohen2003Facial}
-I.~Cohen, N.~Sebe, A.~Garg, L.~S. Chen, and T.~S. Huang, ``Facial expression
-  recognition from video sequences: temporal and static modeling,''
-  \emph{Computer Vision \& Image Understanding}, vol.~91, no. 1每2, pp.
-  160--187, 2003.
-
-\bibitem{daugman1993high}
-J.~G. Daugman, ``High confidence visual recognition of persons by a test of
-  statistical independence,'' \emph{IEEE transactions on pattern analysis and
-  machine intelligence}, vol.~15, no.~11, pp. 1148--1161, 1993.
 
 \bibitem{DeAngeli:2005:PRW:1090412.1090419}
 A.~De~Angeli \emph{et~al.}, ``Is a picture really worth a thousand words?
@@ -118,43 +88,12 @@ S.~Du, Y.~Tao, and A.~M. Martinez, ``Compound facial expressions of emotion.''
 P.~Ekman, W.~V. Friesen, and P.~Ellsworth, ``- emotion in the human face,''
   \emph{Emotion in the Human Face}, p. 181每187, 1972.
 
-\bibitem{Fasel2002Multiscale}
-B.~Fasel, ``Multiscale facial expression recognition using convolutional neural
-  networks.'' in \emph{Icvgip 2002, Proceedings of the Third Indian Conference
-  on Computer Vision, Graphics \& Image Processing, Ahmadabad, India,
-  December}, 2002, p. 8123.
-
-\bibitem{florencio2007}
-H.~C. Florencio~D, ``A large-scale stugy of web password habits,'' in
-  \emph{Proceedings of the 16th international conference on World Wide Web.
-  ACM}, 2007, pp. 657--666.
-
 \bibitem{Fogel1989Gabor}
 I.~Fogel and D.~Sagi, ``Gabor filters as texture discriminator,''
   \emph{Biological Cybernetics}, vol.~61, no.~2, pp. 103--113, 1989.
 
 \bibitem{Fridlund1994Human}
 A.~J. Fridlund, \emph{Human facial expression: An evolutionary view.}, 1994.
-
-\bibitem{Jafri2009A}
-R.~Jafri and H.~R. Arabnia, ``A survey of face recognition techniques,''
-  \emph{Journal of Information Processing Systems}, vol.~5, no.~2, pp. 41--68,
-  2009.
-
-\bibitem{Jain1997Feature}
-A.~Jain and D.~Zongker, ``Feature selection: evaluation, application, and small
-  sample performance,'' \emph{IEEE Transactions on Pattern Analysis \& Machine
-  Intelligence}, vol.~19, no.~2, pp. 153--158, 1997.
-
-\bibitem{Kim1970Architecture}
-Y.~Kim, J.~Yoon, S.~Park, and J.~Han, \emph{Architecture for Implementing the
-  Mobile Government Services in Korea}, 1970.
-
-\bibitem{Kotsia2007Facial}
-I.~Kotsia and I.~Pitas, ``Facial expression recognition in image sequences
-  using geometric deformation features and support vector machines.''
-  \emph{IEEE Transactions on Image Processing A Publication of the IEEE Signal
-  Processing Society}, vol.~16, no.~1, pp. 172--87, 2007.
 
 \bibitem{Kwon2014Covert}
 T.~Kwon, S.~Shin, and S.~Na, ``Covert attentional shoulder surfing: Human
@@ -165,11 +104,6 @@ T.~Kwon, S.~Shin, and S.~Na, ``Covert attentional shoulder surfing: Human
 \bibitem{Lebow2009Communication}
 I.~Lebow, ``Communication without wires,'' 2009, pp. 63--66.
 
-\bibitem{Lyons1998Coding}
-M.~Lyons, S.~Akamatsu, M.~Kamachi, and J.~Gyoba, ``Coding facial expressions
-  with gabor wavelets,'' in \emph{IEEE International Conference on Automatic
-  Face and Gesture Recognition, 1998. Proceedings}, 1998, pp. 200--205.
-
 \bibitem{Matsumoto2013Reading}
 D.~Matsumoto, H.~S. Hwang, R.~M. L車pez, and M.~. P谷rez-Nieto, ``Reading
   facial expressions of emotions: Basic research on emotions recognition
@@ -179,21 +113,9 @@ D.~Matsumoto, H.~S. Hwang, R.~M. L車pez, and M.~. P谷rez-Nieto, ``Reading
 V.~V. Phoha, S.~Phoha, A.~Ray, S.~S. Joshi, and S.~K. Vuyyuru, ``Hidden markov
   model (※hmm§)-based user authentication using keystroke dynamics,'' 2012.
 
-\bibitem{Pousttchi2004Assessment}
-K.~Pousttchi and M.~Schurig, ``Assessment of today's mobile banking
-  applications from the view of customer requirements.'' in \emph{Hawaii
-  International Conference on System Sciences-Track}, 2004, pp.
-  70\,184a--70\,184a.
-
 \bibitem{shoulder}
 J.~Rogers, ``Please enter your four-digit pin,'' \emph{Financial Services
   Technology}, 2007.
-
-\bibitem{rogers1994biometric}
-R.~R. Rogers, ``Biometric identification systems: The science of transaction
-  facilitation,'' in \emph{SPIE's 1994 International Symposium on Optics,
-  Imaging, and Instrumentation}.\hskip 1em plus 0.5em minus 0.4em\relax
-  International Society for Optics and Photonics, 1994, pp. 194--199.
 
 \bibitem{Rose2007Method}
 G.~G. Rose, R.~F. Quick, and A.~Gantman, ``Method and apparatus for simplified
@@ -223,11 +145,6 @@ C.~Song, A.~Wang, K.~Ren, and W.~Xu, ``Eyeveri: A secure and usable approach
   for smartphone user authentication,'' in \emph{IEEE INFOCOM 2016 - IEEE
   Conference on Computer Communications}, 2016, pp. 1--9.
 
-\bibitem{Su2005A}
-Q.~Su, J.~Tian, X.~Chen, and X.~Yang, \emph{A Fingerprint Authentication System
-  Based on Mobile Phone}.\hskip 1em plus 0.5em minus 0.4em\relax Springer
-  Berlin Heidelberg, 2005.
-
 \bibitem{Wang2016Gait}
 W.~Wang, A.~X. Liu, and M.~Shahzad, ``Gait recognition using wifi signals,'' in
   \emph{ACM International Joint Conference on Pervasive and Ubiquitous
@@ -248,17 +165,5 @@ S.~Zahid, M.~Shahzad, S.~A. Khayam, and M.~Farooq, ``Keystroke-based user
   identification on smart phones,'' in \emph{Recent Advances in Intrusion
   Detection, International Symposium, RAID 2009, Saint-Malo, France, September
   23-25, 2009. Proceedings}, 2009, pp. 224--243.
-
-\bibitem{Zhang2005Active}
-Y.~Zhang and Q.~Ji, ``Active and dynamic information fusion for facial
-  expression understanding from image sequences,'' \emph{IEEE Transactions on
-  Pattern Analysis \& Machine Intelligence}, vol.~27, no.~5, pp. 699--714,
-  2005.
-
-\bibitem{Zhang1998Comparison}
-Z.~Zhang, M.~Lyons, M.~Schuster, and S.~Akamatsu, ``Comparison between
-  geometry-based and gabor-wavelets-based facial expression recognition using
-  multi-layer perceptron,'' in \emph{IEEE International Conference on Automatic
-  Face and Gesture Recognition, 1998. Proceedings}, 1998, pp. 454--459.
 
 \end{thebibliography}

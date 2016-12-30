@@ -22,7 +22,8 @@
 \usepackage{diagbox}
 \usepackage{enumerate}
 \usepackage{setspace}
-%\usepackage{enumitem}
+\let\labelindent\relax
+\usepackage{enumitem}
 \usepackage{indentfirst}
 \usepackage{booktabs}
 \usepackage{tikz}
@@ -135,8 +136,9 @@
 % Read: A pilot study on the security of pattern screen-lock methods and soft side channel attacks
 \input{introduction}
 \input{background}
+\input{overview}
 
-\input{material}
+%\input{material}
 \input{related}
 
 \section*{Acknowledgements}

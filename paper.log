@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.9)  30 DEC 2016 20:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.9)  31 DEC 2016 11:01
 entering extended mode
 **./paper.tex
 (paper.tex
@@ -960,8 +960,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--33
 
 Missing character: There is no ¨ in font ptmr7t!
 
-Overfull \vbox (7.83893pt too high) has occurred while \output is active []
-
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
 
 [3 <./fig/overview.pdf>]
 Missing character: There is no ¨ in font ptmr7t!
@@ -1002,7 +1002,7 @@ Before submitting the final camera ready copy, remember to:
  process uses the appropriate paper size.
 
 
-Overfull \vbox (0.72742pt too high) has occurred while \output is active []
+Overfull \vbox (1.66492pt too high) has occurred while \output is active []
 
 
 [4]
@@ -1023,18 +1023,18 @@ Package rerunfilecheck Info: Checksums for `paper.out':
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 153.
  ) 
 Here is how much of TeX's memory you used:
- 20314 strings out of 493334
- 357841 string characters out of 3144942
- 482003 words of memory out of 3000000
- 23400 multiletter control sequences out of 15000+200000
+ 20355 strings out of 493334
+ 358878 string characters out of 3144942
+ 485003 words of memory out of 3000000
+ 23441 multiletter control sequences out of 15000+200000
  35763 words of font info for 72 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 55i,8n,54p,1690b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,8n,54p,1690b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
 {H:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<H:/CTEX/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb><H:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><
 H:/CTEX/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><H:/CTEX/MiKTeX/fonts/type1/ur
 w/times/utmr8a.pfb><H:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on paper.pdf (4 pages, 349655 bytes).
+Output written on paper.pdf (4 pages, 352436 bytes).
 PDF statistics:
  255 PDF objects out of 1000 (max. 8388607)
  45 named destinations out of 1000 (max. 500000)

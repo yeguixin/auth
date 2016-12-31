@@ -18,4 +18,10 @@
     \subsection{System Overview}
         The system authenticates the user's identity by analyzing the dynamic changes of facial expressions. It records the entire change of facial expressions using in-built front camera of smartphone. The deformation features of facial expressions are extracted by existing facial detection algorithm and they are used to recognize the user's identity.
         Figure ~\ref{fig:overview} depicts the steps of this system:
+        
+        \noindent \circled{1} \textbf{Filming and Landmarks Tracking:} The authentication process begins from capturing the facial expressions. The video footage is filmed by in-built front camera of smartphone. During recording, the facial landmarks are simultaneously tracked automatically by facial detection algorithm.
+        
+        \noindent \circled{2} \textbf{Feature Extraction:} Once the facial landmarks are located, two types of feature extraction algorithms will be separately applied to extract two kinds of facial expression features. One is the Gabor features and the other is facial deformation features.
+        
+        \noindent \circled{3} \textbf{Identity Authentication:} In this step, the system first verify the reality of the facial expressions by the part of facial deformation features.  That is to say that whether or not the current facial expression is recorded by attacker in advance. Then it will check the user's identity combining the deformation features and the Gabor features. Finally, the system outputs the authentication results comparing to the owner's template trained when enrollment.
          

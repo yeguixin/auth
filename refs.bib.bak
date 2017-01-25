@@ -1,5 +1,3 @@
-
-
 @phdthesis{kuhn2002compromising,
   title={Compromising emanations: eavesdropping risks of computer displays},
   author={Kuhn, Markus Guenther},
@@ -754,4 +752,43 @@ inproceedings{uellenbeck2013quantifying,
   booktitle={International Conference on Privacy and Security in Mobile Systems},
   pages={1 - 8},
   year={2013},
+}
+@inproceedings{Xu2016VirtualU,
+  title={Virtual U: Defeating face liveness detection by building virtual models from your public photos},
+  author={Xu, Y. and Price, T. and Frahm, J M. and Monrose, F.},
+  booktitle={25th USENIX Security Symposium (USENIX Security 16). USENIX Association},
+  pages={497--512},
+  year={2016},
+}
+@article{Liu2016VIPLFaceNet,
+  title={VIPLFaceNet: An Open Source Deep Face Recognition SDK},
+  author={Liu, Xin and Kan, Meina and Wu, Wanglong and Shan, Shiguang and Chen, Xilin},
+  year={2016},
+}
+@misc{SeetaFace-toolbox-web,
+  author={Jie Zhang \emph{et al.}},
+  title={{SeetaFace}: SeetaFace Engine},
+  howpublished={\url{https://github.com/seetaface/SeetaFaceEngine}}
+}
+@article{Krizhevsky2012ImageNet,
+  title={ImageNet classification with deep convolutional neural networks},
+  author={Krizhevsky, Alex and Sutskever, Ilya and Hinton, Geoffrey E.},
+  journal={Advances in Neural Information Processing Systems},
+  volume={25},
+  number={2},
+  pages={2012},
+  year={2012},
+}
+@article{Wu2016Funnel,
+  title={Funnel-Structured Cascade for Multi-View Face Detection with Alignment-Awareness},
+  author={Wu, Shuzhe and Kan, Meina and He, Zhenliang and Shan, Shiguang and Chen, Xilin},
+  journal={Neurocomputing},
+  year={2016},
+}
+@book{Zhang2014Coarse,
+  title={Coarse-to-Fine Auto-Encoder Networks (CFAN) for Real-Time Face Alignment},
+  author={Zhang, Jie and Shan, Shiguang and Kan, Meina and Chen, Xilin},
+  publisher={Springer International Publishing},
+  pages={1-16},
+  year={2014},
 }

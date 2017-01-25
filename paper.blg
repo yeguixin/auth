@@ -7,10 +7,13 @@ Database file #1: refs.bib
 ** Sorting version - not for normal IEEE work.
 Warning--to sort, need author, organization, or key in worldwide2016smartphonUsage
 Warning--to sort, need author, organization, or key in lookout-survey
+Warning--to sort, need author, organization, or key in hugeSurge2006
+Warning--to sort, need author, organization, or key in 2002NATMonitor
 Warning--empty year in de2012touch
 Warning--missing publisher in Fridlund1994Human
+Warning--missing publisher in Kim1970Architecture
 Warning--empty booktitle in Lebow2009Communication
 Warning--empty year in shukla2014beware
 
 Done.
-(There were 6 warnings)
+(There were 9 warnings)

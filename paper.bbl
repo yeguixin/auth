@@ -31,6 +31,14 @@
   \url{https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/},
   2016.
 
+\bibitem{2002NATMonitor}
+``2002 nat monitor password survey.'' \url{http://www.outlaw.com/page-3193},
+  Last visit: 04.09.2006.
+
+\bibitem{hugeSurge2006}
+``Huge surge in mobile phone thefts.''
+  \url{http://news.bbc.co.uk/1/hi/uk/1748258.stm}, Last visit: 04.09.2006.
+
 \bibitem{Acharya2012Impact}
 R.~Acharya and M.~Dolan, ``Impact of antisocial and psychopathic traits on
   emotional facial expression recognition in alcohol abusers,''
@@ -70,6 +78,11 @@ X.~Chen, J.~Tian, Q.~Su, X.~Yang, and F.~Y. Wang, \emph{A Secured Mobile Phone
   Based on Embedded Fingerprint Recognition Systems}.\hskip 1em plus 0.5em
   minus 0.4em\relax Springer Berlin Heidelberg, 2005.
 
+\bibitem{daugman1993high}
+J.~G. Daugman, ``High confidence visual recognition of persons by a test of
+  statistical independence,'' \emph{IEEE transactions on pattern analysis and
+  machine intelligence}, vol.~15, no.~11, pp. 1148--1161, 1993.
+
 \bibitem{DeAngeli:2005:PRW:1090412.1090419}
 A.~De~Angeli \emph{et~al.}, ``Is a picture really worth a thousand words?
   exploring the feasibility of graphical authentication systems,'' \emph{Int.
@@ -88,12 +101,51 @@ S.~Du, Y.~Tao, and A.~M. Martinez, ``Compound facial expressions of emotion.''
 P.~Ekman, W.~V. Friesen, and P.~Ellsworth, ``- emotion in the human face,''
   \emph{Emotion in the Human Face}, p. 181¨C187, 1972.
 
+\bibitem{SeetaFace-toolbox-web}
+J.~Z. \emph{et al.}, ``{SeetaFace}: Seetaface engine,''
+  \url{https://github.com/seetaface/SeetaFaceEngine}.
+
+\bibitem{florencio2007}
+H.~C. Florencio~D, ``A large-scale stugy of web password habits,'' in
+  \emph{Proceedings of the 16th international conference on World Wide Web.
+  ACM}, 2007, pp. 657--666.
+
 \bibitem{Fogel1989Gabor}
 I.~Fogel and D.~Sagi, ``Gabor filters as texture discriminator,''
   \emph{Biological Cybernetics}, vol.~61, no.~2, pp. 103--113, 1989.
 
 \bibitem{Fridlund1994Human}
 A.~J. Fridlund, \emph{Human facial expression: An evolutionary view.}, 1994.
+
+\bibitem{Gribbon2004A}
+K.~T. Gribbon and D.~G. Bailey, ``A novel approach to real-time bilinear
+  interpolation,'' in \emph{IEEE International Workshop on Electronic Design,
+  Test and Applications, Proceedings. Delta}, 2004, pp. 126--131.
+
+\bibitem{Jafri2009A}
+R.~Jafri and H.~R. Arabnia, ``A survey of face recognition techniques,''
+  \emph{Journal of Information Processing Systems}, vol.~5, no.~2, pp. 41--68,
+  2009.
+
+\bibitem{Jain1997Feature}
+A.~Jain and D.~Zongker, ``Feature selection: evaluation, application, and small
+  sample performance,'' \emph{IEEE Transactions on Pattern Analysis \& Machine
+  Intelligence}, vol.~19, no.~2, pp. 153--158, 1997.
+
+\bibitem{Kim1970Architecture}
+Y.~Kim, J.~Yoon, S.~Park, and J.~Han, \emph{Architecture for Implementing the
+  Mobile Government Services in Korea}, 1970.
+
+\bibitem{Kotsia2007Facial}
+I.~Kotsia and I.~Pitas, ``Facial expression recognition in image sequences
+  using geometric deformation features and support vector machines.''
+  \emph{IEEE Transactions on Image Processing A Publication of the IEEE Signal
+  Processing Society}, vol.~16, no.~1, pp. 172--87, 2007.
+
+\bibitem{Krizhevsky2012ImageNet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton, ``Imagenet classification with
+  deep convolutional neural networks,'' \emph{Advances in Neural Information
+  Processing Systems}, vol.~25, no.~2, p. 2012, 2012.
 
 \bibitem{Kwon2014Covert}
 T.~Kwon, S.~Shin, and S.~Na, ``Covert attentional shoulder surfing: Human
@@ -113,9 +165,21 @@ D.~Matsumoto, H.~S. Hwang, R.~M. L¨®pez, and M.~. P¨¦rez-Nieto, ``Reading
 V.~V. Phoha, S.~Phoha, A.~Ray, S.~S. Joshi, and S.~K. Vuyyuru, ``Hidden markov
   model (¡°hmm¡±)-based user authentication using keystroke dynamics,'' 2012.
 
+\bibitem{Pousttchi2004Assessment}
+K.~Pousttchi and M.~Schurig, ``Assessment of today's mobile banking
+  applications from the view of customer requirements.'' in \emph{Hawaii
+  International Conference on System Sciences-Track}, 2004, pp.
+  70\,184a--70\,184a.
+
 \bibitem{shoulder}
 J.~Rogers, ``Please enter your four-digit pin,'' \emph{Financial Services
   Technology}, 2007.
+
+\bibitem{rogers1994biometric}
+R.~R. Rogers, ``Biometric identification systems: The science of transaction
+  facilitation,'' in \emph{SPIE's 1994 International Symposium on Optics,
+  Imaging, and Instrumentation}.\hskip 1em plus 0.5em minus 0.4em\relax
+  International Society for Optics and Photonics, 1994, pp. 194--199.
 
 \bibitem{Rose2007Method}
 G.~G. Rose, R.~F. Quick, and A.~Gantman, ``Method and apparatus for simplified
@@ -145,10 +209,20 @@ C.~Song, A.~Wang, K.~Ren, and W.~Xu, ``Eyeveri: A secure and usable approach
   for smartphone user authentication,'' in \emph{IEEE INFOCOM 2016 - IEEE
   Conference on Computer Communications}, 2016, pp. 1--9.
 
+\bibitem{Su2005A}
+Q.~Su, J.~Tian, X.~Chen, and X.~Yang, \emph{A Fingerprint Authentication System
+  Based on Mobile Phone}.\hskip 1em plus 0.5em minus 0.4em\relax Springer
+  Berlin Heidelberg, 2005.
+
 \bibitem{Wang2016Gait}
 W.~Wang, A.~X. Liu, and M.~Shahzad, ``Gait recognition using wifi signals,'' in
   \emph{ACM International Joint Conference on Pervasive and Ubiquitous
   Computing}, 2016, pp. 363--373.
+
+\bibitem{Wu2016Funnel}
+S.~Wu, M.~Kan, Z.~He, S.~Shan, and X.~Chen, ``Funnel-structured cascade for
+  multi-view face detection with alignment-awareness,'' \emph{Neurocomputing},
+  2016.
 
 \bibitem{Xu2016VirtualU}
 Y.~Xu, T.~Price, J.~M. Frahm, and F.~Monrose, ``Virtual u: Defeating face
@@ -165,5 +239,10 @@ S.~Zahid, M.~Shahzad, S.~A. Khayam, and M.~Farooq, ``Keystroke-based user
   identification on smart phones,'' in \emph{Recent Advances in Intrusion
   Detection, International Symposium, RAID 2009, Saint-Malo, France, September
   23-25, 2009. Proceedings}, 2009, pp. 224--243.
+
+\bibitem{Zhang2014Coarse}
+J.~Zhang, S.~Shan, M.~Kan, and X.~Chen, \emph{Coarse-to-Fine Auto-Encoder
+  Networks (CFAN) for Real-Time Face Alignment}.\hskip 1em plus 0.5em minus
+  0.4em\relax Springer International Publishing, 2014.
 
 \end{thebibliography}

@@ -15,7 +15,7 @@ Biometric-based technologies include identification based on physiological chara
     \item Data acquisition in general is fraught with problems for other biometrics: techniques that rely on hands and fingers can be rendered useless if the epidermis tissue is damaged in some way (i.e., bruise or cracked). Iris and retina identification require expensive equipment and are much too sensitive to any body motion. Voice recognition is susceptible to background noises in public places and auditory fluctuations on a phone line or tape recording. Signatures can be modified or forged. However, facial images can be easily obtained with a couple of inexpensive fixed cameras.
     \item Good face recognition algorithms and appropriate preprocessing of the images can compensate for noise and slight variations in orientation, scale and illumination.
     \item Technologies that require multiple individuals to use the same equipment to capture their biological characteristics potentially expose the user to the transmission of germs and impurities from other users. However, face recognition is totally non-intrusive and does not carry any such health risks.
-\end{enumerate}
+\end{itemize}
 
 6. In this section, we discuss the technical considerations that underpin the design of CarSafe while the detailed design is presented in section 3.  CarSafe fundamentally relies on the real-time processing of dual camera video streams. In what follows, we discuss the challenges and design considerations that arise.  This example motivates the need for the simultaneously processing of video streams from the front and rear cameras. SURF features are provided to a binary two-class SVM that is trained to classify eyes as either being open or closed (defined as an open or closed event).
 
@@ -29,3 +29,5 @@ Biometric-based technologies include identification based on physiological chara
 \textbf{The leave-one cross-validation approach was used in order to make maximal use of the available data and produce averaged classification accuracy results.}~\cite{Kotsia2007Facial}.
 
 11. The benefits of feature selection are not only to reduce recognition time by reducing the amount of data that needs to be analyzed, but also, in many cases, to produce better classification accuracy due to finite sample size effects~\cite{Jain1997Feature}.
+
+12. Whether to deny authentication to the user with respect to accessing one or more functionalities controlled by the computing device.
